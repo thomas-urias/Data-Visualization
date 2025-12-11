@@ -28,7 +28,7 @@ Handles button clicks, passes data between the model and view, and updates the d
 
 Development Process
 
-This project was created by [Team Member Names Here] using Agile Scrum.
+This project was created by Thomas Urias, Cole Mayo, and Emmanuel Dewanto using Agile Scrum.
 We worked in weekly sprints, met to plan and review progress, and split tasks so each member contributed to design, coding, and testing.
 
 Features
